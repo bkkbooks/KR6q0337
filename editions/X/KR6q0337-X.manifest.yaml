@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0337_000-X.yaml, hash: 'sha256:46e80f15f891722e4a2aa4c9511a57e3e3e003b17a07b52311c435691ecd875d'}
+  - {seq: 0, filename: KR6q0337_000-X.yaml, hash: 'sha256:93b6789d1cf627c08ac7dd03abe4b63fb1c1b0b1851bd86564829c6960dc41d8'}
   - {seq: 1, filename: KR6q0337_001-X.yaml, hash: 'sha256:73c1ec34ca5dff5cfeddf3d31e7ba0c6afedff93170055dccad9e1a6c511f779'}
   - {seq: 2, filename: KR6q0337_002-X.yaml, hash: 'sha256:7ad16d7ed4d8e6b1941ecc43e1ec17999b2a3eac41ae9535b4b1bbe50083a840'}
   - {seq: 3, filename: KR6q0337_003-X.yaml, hash: 'sha256:9fe447eba1a3ebfd685e91f78bb25575d582d5e30c2b1f53959f56a84607976b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0337_000-X.markers.yaml, hash: 'sha256:b3c55d0ff0327975137549ece6d49f002fa921e1959f855c35ae25712cbc3b9e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0337_000-X.markers.yaml, hash: 'sha256:1aea64c6cd0dba9873d903939703e1a7d23ebc9dd94ee0f1d39ee7340d2e6125'}
   - {seq: 1, role: markers, filename: assets/KR6q0337_001-X.markers.yaml, hash: 'sha256:82703b7923b7c480b5b0586f5d3ad3bae1404eaca001551a965d180185a03785'}
   - {seq: 2, role: markers, filename: assets/KR6q0337_002-X.markers.yaml, hash: 'sha256:6c899ce4dd17ad3b3eaa2f789ce2c77ccd2143045e05ac17060ae45743bed987'}
   - {seq: 3, role: markers, filename: assets/KR6q0337_003-X.markers.yaml, hash: 'sha256:3257594ccf30630902d07e93485ea7a6a3f26e871e45eab4f91319d620ab025a'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0337_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1404-A 師範和南手白
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0337_X_000-mulu-2
     span:
-    - front
+    - body
     - 224
     - 224
   label: 兀菴和尚語錄目次
@@ -819,4 +819,4 @@ table_of_contents:
   label: No. 1404-F
   type: mulu
   level: 1
-hash: sha256:e476c45964c7038b1bba86e40d108c53f3fb888debdbb0247a4a72babcbaced1
+hash: sha256:ba9f27751dd39ee2b5622ce54a4d4eee1f4ec1045c3ca21bbdce18b7ca93f8f3
